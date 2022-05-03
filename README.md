@@ -1,8 +1,6 @@
 ### Hi there, I'm Manuele Bagnolini 👋
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=manuelebagnolini&color=green"/>
-</div>
+![profile-views](https://komarev.com/ghpvc/?username=manuelebagnolini&color=green)
 
 ## I'm a Full Stack Developer, Technology Enthusiasts and an amateur bass player :guitar:
 
@@ -60,9 +58,9 @@
 </a>-->
 
 ### ⚡GitHub Stats
-<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=manuelebagnolini&show_icons=true&layout=compact&theme=dark" />
+![stats-username](https://github-readme-stats.vercel.app/api?username=manuelebagnolini&show_icons=true&layout=compact&theme=dark)
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuelebagnolini&layout=compact&theme=dark" />
+![stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=manuelebagnolini&layout=compact&theme=dark)
 
 <!--
 **manuelebagnolini/manuelebagnolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
