@@ -2,7 +2,7 @@
 
 [![profile-views](https://komarev.com/ghpvc/?username=manuelebagnolini&color=green)](https://github.com/manuelebagnolini/manuelebagnolini)
 
-## I'm a Full Stack Developer, Technology Enthusiasts and an amateur bass player :guitar:
+## I'm a Full Stack Developer, Technology enthusiast and an amateur bass player :guitar:
 
 - 🔭 I’m currently working on an open source project.
 - 🌱 I’m currently learning best practices for software documentation.
@@ -13,7 +13,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/manuele-bagnolini-3636037)
 [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18605567/manuele-bagnolini)
 
-### Tecnology Stack
+### Technology Stack
 <a href="https://docs.microsoft.com/dotnet/csharp/">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
 </a>
