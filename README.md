@@ -46,9 +46,7 @@
 <a href="https://www.javascript.com/">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 </a>
-
-<!--
-<a href="https://reactjs.org/">
+<!--<a href="https://reactjs.org/">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 </a>
 <a href="https://angular.io/">
@@ -62,19 +60,9 @@
 </a>-->
 
 ### ⚡GitHub Stats
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=manuelebagnolini&show_icons=true&layout=compact&theme=dark" />
-      </td>
-      <td>
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuelebagnolini&layout=compact&theme=dark" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-      
+<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=manuelebagnolini&show_icons=true&layout=compact&theme=dark" />
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuelebagnolini&layout=compact&theme=dark" />
 
 <!--
 **manuelebagnolini/manuelebagnolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
