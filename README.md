@@ -24,7 +24,7 @@
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 </a>
 <a href="https://www.djangoproject.com/">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png"/>
+    <img height="50" src="https://avatars.githubusercontent.com/u/27804?s=288&v=4"/>
 </a>
 <a href="https://www.docker.com/">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
